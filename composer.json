@@ -14,5 +14,8 @@
     "require": {
         "php": ">=8.1",
         "symfony/console": "^6.1"
-    }
+    },
+    "bin": [
+        "bin/symfony-cli"
+    ]
 }
