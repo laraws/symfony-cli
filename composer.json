@@ -1,8 +1,8 @@
 {
-    "name": "larry/symfony-cli",
+    "name": "laraws/symfony-cli",
     "autoload": {
         "psr-4": {
-            "Larry\\SymfonyCli\\": "src/"
+            "Laraws\\SymfonyCli\\": "src/"
         }
     },
     "authors": [

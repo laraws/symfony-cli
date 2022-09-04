@@ -5,7 +5,7 @@
 require __DIR__.'/../vendor/autoload.php';
 
 use Symfony\Component\Console\Application;
-use Larry\SymfonyCli\Command\CreateUserCommand;
+use Laraws\SymfonyCli\Command\CreateUserCommand;
 
 $application = new Application();
 

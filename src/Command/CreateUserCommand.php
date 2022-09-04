@@ -1,7 +1,7 @@
 <?php
 
 // src/Command/CreateUserCommand.php
-namespace Larry\SymfonyCli\Command;
+namespace Laraws\SymfonyCli\Command;
 
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
